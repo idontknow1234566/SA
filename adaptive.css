@@ -87,6 +87,12 @@
 	#main .main_inner h1{
 		font-size: 100px;
 	}
+	#image3 {
+		width: 425px;
+	}
+	#image3 img {
+		width: 100%;
+	}
 }
 @media (max-width: 320px) {
 	body{
